@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+.eslintcache
+yarn.lock
+
+fora
 # production
 /build
 
